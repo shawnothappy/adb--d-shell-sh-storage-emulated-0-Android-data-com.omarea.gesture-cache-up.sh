@@ -1,0 +1,1 @@
+# adb--d-shell-sh-storage-emulated-0-Android-data-com.omarea.gesture-cache-up.sh
